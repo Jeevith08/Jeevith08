@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/Jeevith08/jeevi08/blob/15847cd99f5721853556487fdf687baeda3bf7c4/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/Jeevith08/Jeevith08/blob/78f48d8f78629e26371588b10a55dd4f97462a19/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jeevith</h1>
 <h3 align="center">A Specialized Coder from India</h3>
 
