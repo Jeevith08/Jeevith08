@@ -35,7 +35,8 @@
 </a>
 </p>
 
-<img src="https://your-image-host.com/most-used-languages.png" alt="Most Used Languages" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevith&layout=compact&langs_count=8&hide=php,html" /></p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevith&show_icons=true&locale=en" alt="jeevith" /></p>
