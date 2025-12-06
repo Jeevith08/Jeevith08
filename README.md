@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevith&label=Profile%20views&color=0e75b6&style=flat" alt="jeevith" /> </p>
 
-- 🌱 I’m currently learning **APP Development**
+- 🌱 I’m currently learning **Software Developement & Python & My SQL**
 
 - 📫 How to reach me **jeevith1708@gmail.com**
 
