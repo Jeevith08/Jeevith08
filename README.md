@@ -20,12 +20,12 @@
 ---
 
 # 🪐 About Me  
-> 🚀 I'm a passionate ** Pyhton & Software Developer & My SQL ** leaner and building futuristic and user-centric applications.  
+> 🚀 I'm a passionate -- Pyhton & Software Developer & My SQL-- leaner and building futuristic and user-centric applications.  
 > 💜 I love turning ideas into elegant interfaces and powerful systems.  
 > 🌌 My work blends creativity, tech, and storytelling.
 
+
 - 🌱 Learning **Pyhton & Software Developer & My SQL**
-- 
 ---
 
 # ⭐ Featured Galaxy Projects
@@ -38,7 +38,7 @@
 # 💜 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,firebase,react,nodejs,mongodb,git,github,figma,androidstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,firebase,git,github&theme=light" />
 </p>
 
 ---
